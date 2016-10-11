@@ -3,6 +3,11 @@ body {
   margin: 0;
 }
 
+a {
+  border:none;
+  border:hidden;
+}
+
 .flex-container {
   padding: 0;
 /*  margin: .5%;*/
@@ -25,11 +30,11 @@ body {
 img {
      display: block;
      float: left;
-     height: 0;
+     height:0;
      background-position: center;
      background-size: cover;
      background-repeat: no-repeat;
-     vertical-align: top;
+     vertical-align:top;
 }
 
 
