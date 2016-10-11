@@ -33,7 +33,6 @@ img {
 }
 
 
-
 @media only screen and (min-width: 300px) {
 
 .item {
@@ -42,7 +41,7 @@ img {
     width: 49.5%;
 }
 
-.item > img {
+.item > a > img {
      width: 100%;
      padding-bottom: 135%;
 }
@@ -53,7 +52,7 @@ img {
     width: 99.5%;
 }
 
-.item-wide > img {
+.item-wide > a > img {
      width: 100%;
      padding-bottom: 66.75%;
 }
@@ -68,7 +67,7 @@ img {
     width: 24.5%;
 }
 
-.item > img {
+.item > a > img {
      width: 100%;
      padding-bottom: 135%;
 }
@@ -79,7 +78,7 @@ img {
     width: 49.5%;
 }
 
-.item-wide > img {
+.item-wide > a > img {
      width: 100%;
      padding-bottom: 66.75%;
 }
