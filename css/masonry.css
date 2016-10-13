@@ -27,7 +27,7 @@ a {
   flex-direction: row;
 }
 
-img {
+.item > img {
      display: block;
      float: left;
      height:0;
