@@ -22,7 +22,7 @@ a {
   display: flex;
 }
 
-.row            { 
+.flex-row            { 
   -webkit-flex-direction: row; 
   flex-direction: row;
 }
